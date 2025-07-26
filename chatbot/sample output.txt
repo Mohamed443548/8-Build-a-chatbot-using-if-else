@@ -1,0 +1,13 @@
+🤖 ChatBot: Hello! I'm ChatBot. Type 'bye' to exit.
+
+You: hello
+🤖 ChatBot: Hello there! How can I help you today?
+
+You: what's your name?
+🤖 ChatBot: I'm just a simple rule-based chatbot created by Mohamed Idrish!
+
+You: time
+🤖 ChatBot: The current time is 15:02:10
+
+You: bye
+🤖 ChatBot: Goodbye! Have a great day! 👋
